@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alfarizi</h1>
+<h1 align="center">Hi 👋, I'm Rizal Alfarizi</h1>
 <h3 align="center">Web Developer (React.js/Next.js) | Neovim Enthusiast | Computer Graphics (Vulkan-API)</h3>
 
 - 🌱 I’m currently learning **Vue.js, Nest.js, SQL**
