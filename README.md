@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Vue.js, Nest.js, SQL**
 
-- 👨‍💻 All of my projects are available at [https://alfarizi.vercel.app/project](https://alfarizi.vercel.app/project)
+- 👨‍💻 All of my projects are available at [https://www.rizalalfarizi.com/project](https://www.rizalalfarizi.com/project)
 
-- 📝 I regularly write articles on [https://alfarizi.vercel.app/blog](https://alfarizi.vercel.app/blog)
+- 📝 I regularly write articles on [https://www.rizalalfarizi.com/blog](https://www.rizalalfarizi.com/blog)
 
 - 💬 Ask me about **react, next.js, tailwindcss, vulkan-api**
 
