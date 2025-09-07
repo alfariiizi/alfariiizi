@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rizal Alfarizi</h1>
-<h3 align="center">Web Developer (React.js/Next.js) | Neovim Enthusiast | Computer Graphics (Vulkan-API)</h3>
-
-- 🌱 I’m currently learning **Vue.js, Nest.js, SQL**
+<h3 align="center">Web Developer | Neovim Enthusiast | Computer Graphics (Vulkan-API)</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.rizalalfarizi.com/project](https://www.rizalalfarizi.com/project)
 
 - 📝 I regularly write articles on [https://www.rizalalfarizi.com/blog](https://www.rizalalfarizi.com/blog)
 
-- 💬 Ask me about **react, next.js, tailwindcss, vulkan-api**
+- 💬 Ask me about **go, python, react, next.js, tailwindcss, vulkan-api**
 
 - 📫 How to reach me **rizal.alfariiiziii@gmail.com**
 
