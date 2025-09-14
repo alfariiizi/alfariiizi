@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizal Alfarizi</h1>
-<h3 align="center">Web Developer | Neovim Enthusiast | Computer Graphics (Vulkan-API)</h3>
+<h3 align="center">Gopher | Neovim Enthusiast </h3>
 
 - 👨‍💻 All of my projects are available at [https://www.rizalalfarizi.com/project](https://www.rizalalfarizi.com/project)
 
