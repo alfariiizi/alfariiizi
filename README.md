@@ -52,8 +52,8 @@ that make development faster.
 
 ### Featured Links
 
-- Portfolio: [rizalalfarizi.com/project](https://www.rizalalfarizi.com/project)
-- Blog: [rizalalfarizi.com/blog](https://www.rizalalfarizi.com/blog)
+- Portfolio: [rizalalfarizi.com/project](https://alfarizi.vercel.app/project)
+- Blog: [rizalalfarizi.com/blog](https://alfarizi.vercel.app/blog)
 - LinkedIn:
   [moh-rizal-alfarizi](https://www.linkedin.com/in/moh-rizal-alfarizi-3809b9246/)
 - Email: [rizal.alfariiiziii@gmail.com](mailto:rizal.alfariiiziii@gmail.com)
